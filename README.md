@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efil28)
+
 Welcome to my Github Repo.
 
 <div>
