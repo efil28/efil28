@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=efil28&layout=compact&theme=tokyonight"
+    [![Top Langs](github-readme-stats.vercel.app)](https://github.com/efil28/github-readme-stats)
     alt="Top Langs"
   />
 </p>
