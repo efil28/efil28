@@ -1,6 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efil28)
-
-Welcome to my Github Repo.
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efil28&layout=compact&theme=tokyonight)
+About me
+Welcome to my Github Repo. Im an 2nd year electrical engineering student at queens university.
 
 <div>
   <h3>🔬 Projects</h3>
