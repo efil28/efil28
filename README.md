@@ -18,6 +18,5 @@
 
 ### 🚀 Here Are Some of My Projects
 
-* **[Project Title 1 - e.g., Custom PID Controller]** - *Designed and implemented a closed-loop system using a microcontroller to maintain a target temperature/speed.*
-* **[Project Title 2 - e.g., Digital Filter Implementation]** - *Developed VHDL code for a Finite Impulse Response (FIR) filter implemented on an FPGA.*
-* **[Project Title 3 - e.g., Power Supply Design]** - *Simulated and analyzed a DC-DC converter topology using LTSpice for high-efficiency power delivery.*
+* **[Power Distribution PCB]** - *Designed and implemented a power distribution pcb using Altium for the Queen’s BioMechatronics Design Team*
+
