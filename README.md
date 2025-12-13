@@ -18,5 +18,5 @@
 
 ### 🚀 Here Are Some of My Projects
 
-* **[Power Distribution PCB]** - *Designed and implemented a power distribution pcb using Altium for the Queen’s BioMechatronics Design Team*
+* **[Power Distribution PCB]** - *Designed and implemented a 24V power distribution PCB using Altium for the Queen’s BioMechatronics Design Team's Competition Exoskeleton*
 
