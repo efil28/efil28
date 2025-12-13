@@ -16,14 +16,6 @@
 
 ---
 
-### 🛠️ Key Skills & Tools
-
-* **Hardware Design:** PCB Layout (e.g., KiCad), Schematic Capture, Component Selection
-* **Embedded Systems:** Microcontrollers (e.g., PIC, STM32), Interrupts, Peripheral Communication (I2C, SPI)
-* **Simulation:** SPICE (LTSpice), System Modeling
-
----
-
 ### 🚀 Here Are Some of My Projects
 
 * **[Project Title 1 - e.g., Custom PID Controller]** - *Designed and implemented a closed-loop system using a microcontroller to maintain a target temperature/speed.*
