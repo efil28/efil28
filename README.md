@@ -8,11 +8,16 @@
 
 ### 📈 Most Used Languages
 
-
 | Language | Focus |
 | :--- | :--- |
-| **C** | Microcontroller programming, firmware development, low-level optimization |
+| **C** | Microcontroller programming and data structures |
 | **VHDL** | Digital logic design and FPGA implementation |
+
+### 🛠️ Key Tools
+
+* **Hardware Design:** Altium Designer and KiCad
+* **Simulation:** LTSpice
+* **Digital/Programmable Logic** Vivado Design Suite and Quartus Prime
 
 ---
 
