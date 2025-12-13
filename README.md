@@ -2,20 +2,17 @@
 
 ## ⚡ Canadian EE Student | Electronics & Hardware Focus
 
-> **Second-year Electrical Engineering student based in Canada.** I am a practical engineer dedicated to bridging theory and application in **electronics and hardware design**. My current focus is on **microcontroller programming, robust PCB design, and digital systems**, eager to pursue a career developing tangible, high-performance embedded solutions.
+> **Second-year Electrical Engineering student based in Canada.** I am a engineering student who has a passion in **electronics and hardware design**. My current focus is on **microcontroller programming, robust PCB design, and digital systems**.
 
 ---
 
 ### 📈 Most Used Languages
 
-*This reflects languages commonly used by EE students focusing on embedded systems, simulation, and software integration.*
 
 | Language | Focus |
 | :--- | :--- |
-| **C/C++** | Microcontroller programming, firmware development, low-level optimization |
-| **Python** | Data analysis, scripting, hardware interfacing (e.g., controlling test equipment) |
-| **MATLAB** | System modeling, signal processing, simulation, and algorithm development |
-| **Verilog/VHDL** | Digital logic design and FPGA implementation |
+| **C** | Microcontroller programming, firmware development, low-level optimization |
+| **VHDL** | Digital logic design and FPGA implementation |
 
 ---
 
@@ -28,8 +25,6 @@
 ---
 
 ### 🚀 Here Are Some of My Projects
-
-*Please ensure the repositories for these projects are public!*
 
 * **[Project Title 1 - e.g., Custom PID Controller]** - *Designed and implemented a closed-loop system using a microcontroller to maintain a target temperature/speed.*
 * **[Project Title 2 - e.g., Digital Filter Implementation]** - *Developed VHDL code for a Finite Impulse Response (FIR) filter implemented on an FPGA.*
