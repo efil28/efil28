@@ -2,7 +2,7 @@
 
 ## ⚡ Canadian EE Student | Electronics & Hardware Focus
 
-> **Second-year Electrical Engineering student based in Canada.** I am a engineering student who has a passion in **electronics and hardware design**. My current focus is on **microcontroller programming, robust PCB design, and digital systems**.
+> **Second-year Electrical Engineering student based in Canada.** I am a engineering student who has a passion in **electronics and power engineering**. My current focus is on **power systems and robust PCB design**.
 
 ---
 
