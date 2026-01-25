@@ -1,27 +1,17 @@
-### Hi there! I'm Eric 👋
+# Hi there! I'm Eric 👋 
 
-## ⚡ Canadian EE Student | Electronics & Hardware Focus
+### ⚡ Electrical Engineering Student @ Queen's University
+**Specializing in Power Systems & Robust Hardware Design**
 
-> **Second-year Electrical Engineering student based in Canada.** I am a engineering student who has a passion in **electronics and power engineering**. My current focus is on **power systems and robust PCB design**.
+I am a French-Canadian engineering student passionate about bridging the gap between low-level firmware and high-power hardware. My approach focuses on sustainable, functional design and hands-on integration.
 
 ---
 
-### 📈 Most Used Languages
+### 🛠️ Technical Toolkit
 
-| Language | Focus |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **C** | Microcontroller programming and data structures |
-| **VHDL** | Digital logic design and FPGA implementation |
-
-### 🛠️ Key Tools
-
-* **Hardware Design:** Altium Designer and KiCad
-* **Simulation:** LTSpice
-* **Digital/Programmable Logic** Vivado Design Suite and Quartus Prime
-
----
-
-### 🚀 Here Are Some of My Projects
-
-* **[Power Distribution PCB]** - *Designed and implemented a 24V power distribution PCB using Altium for the Queen’s BioMechatronics Design Team's Competition Exoskeleton*
-
+| **Languages** | C (Firmware & Data Structures), VHDL (Digital Logic), Python |
+| **Hardware/PCB** | Altium Designer, KiCad, Power Distribution Systems |
+| **Digital Logic** | Vivado Design Suite, Quartus Prime, FPGA Implementation |
+| **Simulation** | LTSpice, MATLAB |
