@@ -12,7 +12,7 @@ working on the power management for the Queen's Knights Robotics Team.
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | C (Firmware & Data Structures), VHDL (Digital Logic), Python |
+| **Languages** | C, Python, ASM, VHDL |
 | **CAD Tools** | Altium Designer, KiCad, Solidworks |
 | **Digital Logic** | Vivado Design Suite, Quartus Prime |
 | **Simulation** | LTSpice, MATLAB |
