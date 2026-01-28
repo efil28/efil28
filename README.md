@@ -1,9 +1,10 @@
 # Hi there! I'm Eric 👋 
 
 ### ⚡ Electrical Engineering Student @ Queen's University
-**Specializing in Power Systems & Robust Hardware Design**
+**Specializing in Power Systems & Hardware Design**
 
-I am a French-Canadian engineering student passionate about bridging the gap between low-level firmware and high-power hardware. My approach focuses on sustainable, functional design and hands-on integration.
+I am a Canadian engineering student passionate about what I do. I am currently leading a team tasked with optimizing the Queen's Biomechanical Engineering Team's exoskeleton power system and 
+working on the power management for the Queen's Knights Robotics Team.
 
 ---
 
@@ -12,6 +13,6 @@ I am a French-Canadian engineering student passionate about bridging the gap bet
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Languages** | C (Firmware & Data Structures), VHDL (Digital Logic), Python |
-| **Hardware/PCB** | Altium Designer, KiCad, Power Distribution Systems |
-| **Digital Logic** | Vivado Design Suite, Quartus Prime, FPGA Implementation |
+| **CAD Tools** | Altium Designer, KiCad, Solidworks |
+| **Digital Logic** | Vivado Design Suite, Quartus Prime |
 | **Simulation** | LTSpice, MATLAB |
